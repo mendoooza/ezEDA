@@ -1,0 +1,12 @@
+name: ezEDA
+title: ezEDA
+username: ezeda
+account: ezeda
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11838943
+bundleId: 8530506
+url: https://ezeda.shinyapps.io/ezEDA/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
